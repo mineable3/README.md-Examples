@@ -41,6 +41,6 @@
   - item 2
   
 ## Code Snippets
-just wrap the doe you want in " ` " like I've been doing with quotation marks
+just wrap the code you want in " ` " like I've been doing with quotation marks
 
 `System.out.println("Hello World!");`
